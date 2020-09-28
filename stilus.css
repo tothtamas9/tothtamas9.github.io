@@ -3,26 +3,20 @@ table
 	margin:auto;
 	width: 800px;
 	text-align: center;
-	background-color: (113, 138, 164);
-	color: gray;
 }
+
+table, td, th {border: 2px hidden;}
+td{width: 25%}
 
 img
 {
 	height: 100px;
 }
 
-table, td, th
-{
-	border: 2px solid black;
-}
-td
-{
-	width: 25%;
-}
 body
 {
-	background-image: url(backg.jpg);
+	background-image: url(backg.gif);
 	background-attachment: fixed;
-	color: gray;
+	background-position: center;
+	background-size: 100% 100%;
 }
