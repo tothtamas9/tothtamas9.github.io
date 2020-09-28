@@ -7,7 +7,16 @@ table
 	color: white;
 }
 
-img{height: 100px;}
+img
+{
+	height: 100px;
+}
 
-table, td, th {border: 2px solid white;}
-td{width: 25%}
+table, td, th
+{
+	border: 2px solid white;
+}
+td
+{
+	width: 25%;
+}
