@@ -3,9 +3,10 @@ table
 	margin:auto;
 	width: 800px;
 	text-align: center;
+	border-collapse: collapse;
 }
 
-table, td, th {border: 2px hidden;}
+table, td, th {border: 2px hidden gray;}
 td{width: 25%}
 
 img
@@ -19,4 +20,11 @@ body
 	background-attachment: fixed;
 	background-position: center;
 	background-size: 100% 100%;
+	color: lightyellow;
+	background-color: lightgrey;
+}
+
+a
+{
+  color: lightyellow;
 }

@@ -1,0 +1,46 @@
+body
+{
+	background-image: url(beatlesbackg.jpg);
+	color: rgb(0,0,50);
+	margin: 40px;
+	background-attachment: fixed;
+}
+
+h1
+{
+	color: rgb(150,0,50);
+	text-align: center;
+}
+
+p
+{
+	margin-left: 50px;
+	text-align: justify;
+}
+
+table
+{
+	margin:auto;
+	width: 800px;
+	text-align: center;
+	background-color: rgb(30,80,120);
+	color: white;
+}
+
+img{height: 100px;}
+
+img.cimkep
+{
+	height: 200px;
+	border-top: 3px solid red;
+	border-bottom: 1px solid red;
+}
+
+table, td, th {border: 2px solid white;}
+td{width: 25%}
+
+.mas
+{
+	font-family: "Courier New";
+	font-style: italic;
+}

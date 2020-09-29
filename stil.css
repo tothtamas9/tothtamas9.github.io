@@ -1,0 +1,39 @@
+body
+{
+	background-image: url(hatter.jpg);
+	background-attachment: fixed;
+	color: white;
+	border: 2px solid gray;
+}
+
+h1
+{
+	text-align: center;
+	color: gray;
+}
+
+
+
+ul
+{
+	list-style-image: url(nyil.jpg);
+}
+
+p
+{
+	margin: 10px;
+	font-size: 120%;
+	text-align: justify;
+}
+
+p.apro
+{
+	font-family: "calibri";
+	font-size: 100%;
+	color: gray;
+}
+
+#dolt
+{font-style: italic}
+
+
