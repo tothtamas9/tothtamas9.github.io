@@ -1,13 +1,13 @@
 body
 {
-	background-color: rgb(220,230,250);
-	color: rgb(0,0,50);
+	background-image: url(sef.jpg);
+	color: rgb(90, 81, 191);
 	margin: 40px;
 }
 
 h1
 {
-	color: rgb(150,0,50);
+	color: red;
 	text-align: center;
 }
 
@@ -22,11 +22,11 @@ table
 	margin:auto;
 	width: 800px;
 	text-align: center;
-	background-color: rgb(30,80,120);
-	color: white;
+	background-color: rgb(81, 173, 191);
+	color: rgb(90, 81, 191);
 }
 
-img{height: 100px;}
+img{height: 110px;}
 
 img.cimkep
 {
@@ -35,12 +35,12 @@ img.cimkep
 	border-bottom: 1px solid red;
 }
 
-table, td, th {border: 2px solid white;}
+table, td, th {border: 2px solid rgb(90, 81, 191);}
 td{width: 25%}
 
 .mas
 {
-	font-family: "Courier New";
+	font-family: "Times New Roman";
 	font-style: italic;
 }
 
