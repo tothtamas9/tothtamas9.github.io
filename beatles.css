@@ -4,6 +4,7 @@ body
 	color: rgb(0,0,50);
 	margin: 40px;
 	background-attachment: fixed;
+	background-position: center;
 }
 
 h1
@@ -23,7 +24,7 @@ table
 	margin:auto;
 	width: 800px;
 	text-align: center;
-	background-color: rgb(30,80,120);
+	background-color: rgb(224,202,90);
 	color: white;
 }
 
@@ -32,8 +33,8 @@ img{height: 100px;}
 img.cimkep
 {
 	height: 200px;
-	border-top: 3px solid red;
-	border-bottom: 1px solid red;
+	border-top: 3px solid rgb(097,126,078);
+	border-bottom: 3px solid rgb(141,87,63);
 }
 
 table, td, th {border: 2px solid white;}
@@ -43,4 +44,9 @@ td{width: 25%}
 {
 	font-family: "Courier New";
 	font-style: italic;
+}
+
+a
+{
+  color: rgb(31,128,147);
 }
