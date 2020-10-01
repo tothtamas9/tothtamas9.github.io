@@ -6,20 +6,20 @@ body
 	background-image: url(cloud.jpg);
 	background-position: center;
 	background-repeat: no-repeat;
-	background-size: 1200px 650px;
+	background-size: 100% 100%;
 	border: 2px solid white;
 }
 
-h1
+h2
 {
-	color: rgb(150,0,50);
+	color: rgb(41,41,92);
 	text-align: center;
 }
 
 p
 {
 	margin-left: 50px;
-	text-align: justify;
+	text-align: center;
 }
 
 table
@@ -33,18 +33,20 @@ table
 
 img{height: 100px;}
 
-img.cimkep
-{
-	height: 500px;
-	border-top: 3px solid rgb(30,80,120);
-	border-bottom: 3px solid rgb(30,80,120);
-}
 
 table, td, th {border: 2px solid white;}
 td{width: 25%}
 
-.mas
+
+ul
 {
-	font-family: "Courier New";
-	font-style: italic;
+	text-align: justify;
+	text-align: center;
 }
+
+ol
+{
+	text-align: justify;
+	text-align: center;
+}
+

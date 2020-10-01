@@ -2,8 +2,10 @@ body
 {
 	background-image: url(hatter.jpg);
 	background-attachment: fixed;
-	color: white;
+	color: lightgreen;
 	border: 2px solid gray;
+	background-repeat: no-repeat;
+	background-size: 100% 100%;
 }
 
 h1
@@ -16,7 +18,7 @@ h1
 
 ul
 {
-	list-style-image: url(nyil.jpg);
+	list-style-image: url(nyil.png);
 }
 
 p
@@ -41,4 +43,14 @@ img
 	height: 100px;
 }
 
+table
+{
+	margin:auto;
+	text-align: center;
+}
+
+a
+{
+  color: lightyellow;
+}
 

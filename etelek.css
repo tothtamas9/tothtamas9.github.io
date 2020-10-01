@@ -28,13 +28,6 @@ table
 
 img{height: 110px;}
 
-img.cimkep
-{
-	height: 200px;
-	border-top: 3px solid red;
-	border-bottom: 1px solid red;
-}
-
 table, td, th {border: 2px solid rgb(90, 81, 191);}
 td{width: 25%}
 
